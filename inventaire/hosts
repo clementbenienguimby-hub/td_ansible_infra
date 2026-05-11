@@ -1,5 +1,5 @@
 [routeurs]
-csr1000 ansible_host=172.20.10.3 
+csr1000 ansible_host=172.20.10.4 
 csr1000_voisin ansible_host=192.168.103.251
 
 [routeurs:vars]
